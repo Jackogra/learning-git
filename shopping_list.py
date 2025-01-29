@@ -19,6 +19,6 @@ Na koniec, w ostatniej linii wypisz W sumie kupuję <X> produktów.X to sumarycz
 Wyślij zrzuty ekranu swojemu Mentorowi.
 """
 
-shopping list = {"piekarnia":["chleb", "bułki", "pączek"],"warzywniak":["marchew", "seler", "rukola"]}
-
+shopping_list = {"piekarnia":["chleb", "bułki", "pączek"],"warzywniak":["marchew", "seler", "rukola"]}
+article_counter = 0
 
