@@ -18,3 +18,7 @@ Dodatkowo, używając wbudowanych metod operacji na napisach, spowoduj, aby nazw
 Na koniec, w ostatniej linii wypisz W sumie kupuję <X> produktów.X to sumaryczna liczba towarów, które są na listach.
 Wyślij zrzuty ekranu swojemu Mentorowi.
 """
+
+shopping list = {"piekarnia":["chleb", "bułki", "pączek"],"warzywniak":["marchew", "seler", "rukola"]}
+
+
