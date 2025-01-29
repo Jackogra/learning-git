@@ -22,3 +22,10 @@ Wyślij zrzuty ekranu swojemu Mentorowi.
 shopping_list = {"piekarnia":["chleb", "bułki", "pączek"],"warzywniak":["marchew", "seler", "rukola"]}
 article_counter = 0
 
+for shop, articles in shopping_list.items():
+    shop_capital_letter = shop.capitalize()
+    articles_capital_letter = [item.capitalize() for item in articles]
+    print(f"Idę do {shop_capital_letter} i kupuję tam {articles_capital_letter}.")
+    article_counter += len(articles_capital_letter)
+
+print("W sumie kupuję " + str(articles_counter) + " produktów.\n")
