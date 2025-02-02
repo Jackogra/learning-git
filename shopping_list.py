@@ -28,3 +28,4 @@ print("W sumie kupuję " + str(articles_counter) + " produktów.\n")
 """
 
 #Drogi Mentorze - Specjalne Pozdrowienia dla Ciebie ode mnie :D 
+#Cytując AI - Drogi Mentorze, Twoja mądrość jest niczym Wi-Fi – zawsze dostępna, choć czasem moje połączenie szwankuje! Dzięki, że nie wyłączasz routera!
