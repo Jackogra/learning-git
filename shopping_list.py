@@ -13,7 +13,7 @@ Następnie za pomocą pętli for, przeiteruj po tym słowniku i wyświetl napis 
 Dodatkowo, używając wbudowanych metod operacji na napisach, spowoduj, aby nazwy sklepów i towarów były wypisane wielką literą.
 Na koniec, w ostatniej linii wypisz W sumie kupuję <X> produktów.X to sumaryczna liczba towarów, które są na listach.
 Wyślij zrzuty ekranu swojemu Mentorowi.
-"""
+
 
 shopping_list = {"piekarnia":["chleb", "bułki", "pączek", "rogal"],"warzywniak":["marchew", "seler", "por"]}
 article_counter = 0
@@ -25,3 +25,6 @@ for shop, articles in shopping_list.items():
     article_counter += len(articles_capital_letter)
 
 print("W sumie kupuję " + str(articles_counter) + " produktów.\n")
+"""
+
+#Drogi Mentorze - Specjalne Pozdrowienia dla Ciebie ode mnie :D 
